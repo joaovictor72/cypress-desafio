@@ -1,6 +1,7 @@
 # cypress-desafio
 Get CEP do desafio de Chapter Deal
 - Teste de CEP válido da api https://cep-v2-americanas-npf.b2w.io/cep/
+
 Pré Requisitos:
 - Node.js, NPM e Cypress instalados na máquina
 Instrução para execução:
